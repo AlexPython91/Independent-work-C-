@@ -1,0 +1,16 @@
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/bin/Debug/net5.0/Вывод чисел от 1 до 10
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/bin/Debug/net5.0/Вывод чисел от 1 до 10.deps.json
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/bin/Debug/net5.0/Вывод чисел от 1 до 10.runtimeconfig.json
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/bin/Debug/net5.0/Вывод чисел от 1 до 10.runtimeconfig.dev.json
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/bin/Debug/net5.0/Вывод чисел от 1 до 10.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/bin/Debug/net5.0/ref/Вывод чисел от 1 до 10.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/bin/Debug/net5.0/Вывод чисел от 1 до 10.pdb
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.csproj.AssemblyReference.cache
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.AssemblyInfoInputs.cache
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.AssemblyInfo.cs
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.csproj.CoreCompileInputs.cache
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/ref/Вывод чисел от 1 до 10.dll
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.pdb
+/home/alexhvorostov/GeekBrains Курсы/Курс №5. Языки прграммирования/C# for Home/Вывод чисел от 1 до 10/obj/Debug/net5.0/Вывод чисел от 1 до 10.genruntimeconfig.cache
